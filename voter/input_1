@@ -1,0 +1,5 @@
+x x N,1 M,2 x x x L,4 x x F,6 x x x V,9 S,10 x x x x A,14 x W,15 x x x x
+x x N,1 D,2 x x x Z,4 x x F,6 x x x S,9 C,10 x x x x V,14 x I,15 x x x x
+U,1 I,2 A,3 W,0 Y,4 K,5 Z,7 M,8 B,10 F,6 G,9 R,11 O,13 V,12 E,15 L,14 S,16 D,19 Q,17 x H,18
+U,1 I,2 x x Y,4 x x x B,10 F,6 G,9 x x x E,15 L,14 x x x x x
+H,0 x Y,1 x J,2 G,3 x O,4 K,5 x x x Z,7 F,6 x M,8 Z,9 I,12 O,10 x O,11 x O,13 x U,14 P,15 S,16 P,17 H,18 D,19
